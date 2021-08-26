@@ -1,0 +1,13 @@
+.container {
+  color: red;
+  margin: 0 auto;
+  background: plum;
+}
+
+.logo {
+  background-image: url("../assets/biden-vp.jpg");
+  background-size: cover;
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+}
